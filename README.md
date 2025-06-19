@@ -4,6 +4,14 @@ A strategic dashboard built to help real estate professionals, investment teams,
 
 Uncovering who's buying, how often, where, and at what price point.
 
+## 📊 Interactive Dashboard (Tableau Public)
+
+**[🔗 View the full dashboard here](https://public.tableau.com/views/BuyerDataProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+Explore KPIs, acquisition trends, buyer types, pricing behavior, geographic hotspots, and a ready-to-use list of repeat private buyers.
+
+![buyer_data_preview](https://github.com/user-attachments/assets/8ca2d29e-d02f-4485-a936-e2a91c97e6fd)
+
 ## 📂 About the Dataset
 
 This project is based on a commercial real estate transaction dataset covering net lease property acquisitions in the United States from 2000 to 2022. It includes over 6,000 transactions and provides rich buyer-side details such as:
@@ -17,9 +25,5 @@ Buyer-specific identifiers such as company names, contact names, phone numbers, 
 
 This dataset enables deep analysis of buyer behavior, purchase frequency, market activity, and geographic trends across two decades of net lease transactions.
 
-## 📊 Interactive Dashboard (Tableau Public)
 
-**[🔗 View the full dashboard here](https://public.tableau.com/views/BuyerDataProject/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
-
-Explore KPIs, acquisition trends, buyer types, pricing behavior, geographic hotspots, and a ready-to-use list of repeat private buyers.
 
