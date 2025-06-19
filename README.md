@@ -25,6 +25,10 @@ Buyer-specific identifiers such as company names, contact names, phone numbers, 
 
 This dataset enables deep analysis of buyer behavior, purchase frequency, market activity, and geographic trends across two decades of net lease transactions.
 
+## 📊 Key Metrics & Dimensions
+
+This project analyzes buyer activity in the net lease real estate space using the following:
+
 ### Key Metrics
 
 - **Total Buyers**
