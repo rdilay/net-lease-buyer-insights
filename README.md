@@ -1,6 +1,6 @@
-# 🏢 Net Lease Buyer Insights Dashboard (2000–2022)
+# 🏢 Net Lease Buyer Activity & Insights (2000–2022)
 
-A strategic dashboard built to help real estate professionals, investment teams, and acquisition analysts identify the most active buyers in the net lease market...
+A strategic project built to help real estate professionals, acquisition teams, and investment analysts identify the most active buyers in the net lease market...
 
 Uncovering who's buying, how often, where, and at what price point.
 
@@ -10,7 +10,7 @@ Uncovering who's buying, how often, where, and at what price point.
 
 Explore KPIs, acquisition trends, buyer types, pricing behavior, geographic hotspots, and a ready-to-use list of repeat private buyers.
 
-![buyer_data_preview](https://github.com/user-attachments/assets/8ca2d29e-d02f-4485-a936-e2a91c97e6fd)
+![buyer_data_preview](https://github.com/user-attachments/assets/b926ba61-acf9-48a3-8d80-1825d6ba933e)
 
 ## 📂 About the Dataset
 
@@ -25,5 +25,20 @@ Buyer-specific identifiers such as company names, contact names, phone numbers, 
 
 This dataset enables deep analysis of buyer behavior, purchase frequency, market activity, and geographic trends across two decades of net lease transactions.
 
+### Key Metrics
 
+- **Total Buyers**
+- **Repeat Buyers (2+ acquisitions)**
+- **Total Acquisitions**
+- **Average Acquisitions per Year**
+- **Average Time Between Purchases (days)**
+- **Average Sale Price**
+- **Average Actual Cap Rate**
 
+### Key Dimensions
+
+- **Buyer Company**
+- **Buyer Type (Private, Institutional, Public, etc.)**
+- **Acquisition Year**
+- **Location (City, State, ZIP Code)**
+- **Private Buyer Info (fictionalized contact details)**
