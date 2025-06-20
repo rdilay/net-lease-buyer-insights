@@ -112,6 +112,6 @@ Based on the insights gathered, here are actionable recommendations and opportun
 - This would allow you to identify what types of properties top buyers prefer, and spot shifts in portfolio strategy.
 
 ## 🛠 Tools Used
-- **Excel:** Data transformation and time series calculation
-- **Tableau:** Interactive dashboard and cost trend visualizations
+- **Excel:** Data cleaning, validation, and manual checks
+- **Tableau:** Data visualization and dashboard creation
 - **GitHub:** Project repository and documentation
