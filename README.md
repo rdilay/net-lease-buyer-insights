@@ -35,7 +35,7 @@ This project analyzes buyer activity in the net lease real estate space using th
 - Repeat Buyers (2+ acquisitions)
 - Total Acquisitions
 - Average Acquisitions per Year
-- Average Time Between Purchases (days)
+- Average Time Between Purchases (months)
 - Average Sale Price
 - Average Actual Cap Rate
 
