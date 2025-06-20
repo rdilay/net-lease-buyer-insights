@@ -41,10 +41,10 @@ This project analyzes buyer activity in the net lease real estate space using th
 
 ### Key Dimensions
 
-- Buyer Company
-- Buyer Type (Private, Institutional, Public, etc.)
+- Buyer Company Name
+- Buyer Company Type (Private, Institutional, Public, etc.)
 - Acquisition Year
-- Location (City, State, ZIP Code)
+- Property Location (City, State)
 - Private Buyer Info (fictionalized contact details)
 
 ## 🧠 Summary of Insights
